@@ -1,3 +1,7 @@
+div.game{
+    position: relative;
+}
+
 div.row{
     display: flex;
 }
@@ -6,4 +10,8 @@ button.field{
     width: 100px;
     height: 100px;
     font-size: 5em;
+}
+
+h1{
+    text-align: center;
 }
